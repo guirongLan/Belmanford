@@ -1,0 +1,7 @@
+C:\Users\langu\source\repos\Belmanford\Belmanford\obj\Debug\Belmanford.csprojAssemblyReference.cache
+C:\Users\langu\source\repos\Belmanford\Belmanford\obj\Debug\Belmanford.csproj.CoreCompileInputs.cache
+C:\Users\langu\source\repos\Belmanford\Belmanford\bin\Debug\Belmanford.exe.config
+C:\Users\langu\source\repos\Belmanford\Belmanford\bin\Debug\Belmanford.exe
+C:\Users\langu\source\repos\Belmanford\Belmanford\bin\Debug\Belmanford.pdb
+C:\Users\langu\source\repos\Belmanford\Belmanford\obj\Debug\Belmanford.exe
+C:\Users\langu\source\repos\Belmanford\Belmanford\obj\Debug\Belmanford.pdb
